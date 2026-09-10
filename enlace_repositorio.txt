@@ -3,7 +3,7 @@ Evidencia: GA7-220501096-AA4-EV03
 Aprendiz: Cesar Giovanny Pardo Romero
 
 Enlace del repositorio remoto:
-https://github.com/TU-USUARIO/chambapro-frontend
+https://github.com/CGP-DataLab/-chambapro-frontend
 
 (Reemplaza el enlace anterior por la URL real de tu repositorio
 en GitHub o GitLab antes de subir esta entrega a la plataforma SENA.)
