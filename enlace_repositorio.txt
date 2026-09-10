@@ -4,6 +4,3 @@ Aprendiz: Cesar Giovanny Pardo Romero
 
 Enlace del repositorio remoto:
 https://github.com/CGP-DataLab/-chambapro-frontend
-
-(Reemplaza el enlace anterior por la URL real de tu repositorio
-en GitHub o GitLab antes de subir esta entrega a la plataforma SENA.)
