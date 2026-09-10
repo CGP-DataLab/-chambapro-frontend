@@ -1,0 +1,42 @@
+.publicar-anuncio-form {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  max-width: 480px;
+  background: white;
+  padding: 24px;
+  border-radius: 10px;
+  border: 1px solid #cfe3fa;
+}
+
+.publicar-anuncio-form label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #0b2545;
+  margin-top: 10px;
+}
+
+.publicar-anuncio-form input,
+.publicar-anuncio-form textarea {
+  padding: 8px 10px;
+  border: 1px solid #cfd8e3;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  font-family: inherit;
+}
+
+.publicar-anuncio-form button {
+  margin-top: 18px;
+  padding: 10px;
+  background-color: #1e6fd9;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.publicar-anuncio-form button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

@@ -1,0 +1,14 @@
+.calificacion-stars {
+  display: flex;
+  gap: 2px;
+}
+
+.estrella {
+  font-size: 1.1rem;
+  color: #cfd8e3;
+  cursor: default;
+}
+
+.estrella.activa {
+  color: #f2b705;
+}
