@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:4000/api/anuncios';
+const API_URL = `${import.meta.env.VITE_API_URL || 'http://localhost:4000'}/api/anuncios`;
 
 export async function obtenerAnuncios() {
   const respuesta = await fetch(API_URL);
